@@ -1,0 +1,1 @@
+template <class unknow_class>
